@@ -9,6 +9,10 @@ class Main{
         System.out.println(getResult(ulDataInput));
 
         System.out.println(getResult(ulDataInput));
+        System.out.println("hello,myboy");
+        System.out.println(getResult(ulDataInput));
+        System.out.println("hello,myboy");
+
     }
 
     public static String getResult(long ulDataInput){
