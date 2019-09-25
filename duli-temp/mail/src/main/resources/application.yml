@@ -1,0 +1,5 @@
+spring:
+  mail:
+    host: smtp.163.com
+    username: duli520china@163.com
+    password: duli520china

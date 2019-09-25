@@ -1,0 +1,12 @@
+# Project exclude paths
+/duli-temp/redis/target/
+/duli-temp/springdataredis/target/
+/ecommerce-api/ecommerce-product-api/target/
+/ecommerce-api/ecommerce-product-item-aip/target/
+/ecommerce-api/ecommerce-product-mail-api/target/
+/ecommerce-api/ecommerce-product-search-api/target/
+/ecommerce-api/ecommerce-user-api/target/
+/ecommerce-basic/ecomerce-commom/target/
+/ecommerce-basic/ecommerce-entity/target/
+/ecommerce-basic/ecommerce-mapper/target/
+/temp/target/

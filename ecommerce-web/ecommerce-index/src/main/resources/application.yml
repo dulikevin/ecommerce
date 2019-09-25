@@ -1,0 +1,13 @@
+dubbo:
+  application:
+    name: web-index
+  registry:
+    protocol: zookeeper
+    address: 192.168.253.133:2181
+server:
+  port: 8081
+spring:
+  thymeleaf:
+    cache: false
+image:
+  server: http://192.168.253.132/

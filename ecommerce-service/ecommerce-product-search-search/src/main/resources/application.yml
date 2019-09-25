@@ -1,0 +1,19 @@
+dubbo:
+  application:
+    name: search-Service
+  protocol:
+    port: 28801
+  registry:
+    protocol: zookeeper
+    address: 192.168.253.132:2181
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ecommerce?serverTimezone=CTT&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+  data:
+    solr:
+      host: http://192.168.253.133:8889/solr
+server:
+  port: 9091

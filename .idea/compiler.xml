@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ecommerce-product-service" />
+        <module name="ecommerce-product-search-search" />
+        <module name="timer" />
+        <module name="redis" />
+        <module name="demo" />
+        <module name="ecommerce-index" />
+        <module name="ecommerce-service" />
+        <module name="ecommerce-product-api" />
+        <module name="ecommerce-product-search-api" />
+        <module name="ecommerce-search" />
+        <module name="mail" />
+        <module name="ecommerce-sso" />
+        <module name="duli-temp" />
+        <module name="ecommerce-product-item-service" />
+        <module name="ecommerce-web" />
+        <module name="ecommerce-product-item-aip" />
+        <module name="ecommerce-user-service" />
+        <module name="springbootredis" />
+        <module name="ecommerce-background" />
+        <module name="ecommerce-user-api" />
+        <module name="ecommerce-product-mail-service" />
+        <module name="springdataredis" />
+        <module name="ecommerce-product-mail-api" />
+        <module name="ecommerce-entity" />
+        <module name="ecommerce-mapper" />
+        <module name="ecomerce-commom" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ecommerce-common" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="ecommerce-background" options="-parameters" />
+      <module name="ecommerce-index" options="-parameters" />
+      <module name="ecommerce-mapper" options="-parameters" />
+      <module name="ecommerce-product-item-service" options="-parameters" />
+      <module name="ecommerce-product-mail-service" options="-parameters" />
+      <module name="ecommerce-product-search-search" options="-parameters" />
+      <module name="ecommerce-product-service" options="-parameters" />
+      <module name="ecommerce-search" options="-parameters" />
+      <module name="ecommerce-sso" options="-parameters" />
+      <module name="ecommerce-user-service" options="-parameters" />
+      <module name="mail" options="-parameters" />
+      <module name="springbootredis" options="-parameters" />
+      <module name="timer" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-service/ecommerce-product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-web/ecommerce-background/pom.xml" />
+        <option value="$PROJECT_DIR$/duli-temp/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-web/ecommerce-index/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-web/ecommerce-search/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-service/ecommerce-product-search-search/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-service/ecommerce-product-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/duli-temp/mail/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-service/ecommerce-product-mail-service/pom.xml" />
+        <option value="$PROJECT_DIR$/duli-temp/timer/pom.xml" />
+        <option value="$PROJECT_DIR$/duli-temp/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/duli-temp/springdataredis/pom.xml" />
+        <option value="$PROJECT_DIR$/duli-temp/springbootredis/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-web/ecommerce-sso/ecommerce-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-web/ecommerce-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-service/ecommerce-user-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ecommerce-basic/ecommerce-common/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

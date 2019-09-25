@@ -1,0 +1,11 @@
+dubbo:
+  application:
+    name: mail-Service
+  protocol:
+    port: 28803
+  registry:
+    protocol: zookeeper
+    address: 192.168.253.132:2181
+server:
+  port: 9093
+
