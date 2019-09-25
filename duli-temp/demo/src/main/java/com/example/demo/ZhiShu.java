@@ -7,6 +7,8 @@ class Main{
         Scanner scanner=new Scanner(System.in);
         long ulDataInput = scanner.nextLong();
         System.out.println(getResult(ulDataInput));
+        System.out.println("hello,myboy");
+
     }
 
     public static String getResult(long ulDataInput){
