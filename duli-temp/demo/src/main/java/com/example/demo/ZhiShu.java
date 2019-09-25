@@ -8,6 +8,8 @@ class Main{
         long ulDataInput = scanner.nextLong();
         System.out.println(getResult(ulDataInput));
         System.out.println("hello,myboy");
+        System.out.println(getResult(ulDataInput));
+        System.out.println("hello,myboy");
 
     }
 
