@@ -12,6 +12,7 @@ class Main{
         System.out.println("hello,myboy");
         System.out.println(getResult(ulDataInput));
         System.out.println("hello,myboy");
+        System.out.println("hello,myboy");
 
     }
 
